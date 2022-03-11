@@ -1,0 +1,21 @@
+body {
+  background: rgb(103, 167, 103);
+}
+
+h1,
+p,
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+  color: rgb(85, 73, 6);
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
